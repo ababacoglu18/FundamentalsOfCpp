@@ -12,7 +12,7 @@ int main(void) {
 	for (i=0; i <= a; i++) {
 		std::cout << " sinus degeri  " << i << "   " << sin(i*pi/180) << "\n";
 
-
+		//Selam sfgsfgsdgs
 
 
 	}
