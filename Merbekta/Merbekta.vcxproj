@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="PointerRamMemory.cpp" />
     <ClCompile Include="SinusRadientToDegree.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -27,7 +28,7 @@
     <ProjectGuid>{70b56b50-a4e9-465c-98ed-70892ab2af30}</ProjectGuid>
     <RootNamespace>Merbekta</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>FunOfCpp</ProjectName>
+    <ProjectName>Merbekta</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

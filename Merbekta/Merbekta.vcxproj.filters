@@ -18,5 +18,8 @@
     <ClCompile Include="SinusRadientToDegree.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="PointerRamMemory.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

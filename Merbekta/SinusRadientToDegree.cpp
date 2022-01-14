@@ -1,7 +1,7 @@
 #include <iostream>
 #include<cmath>
 using namespace std;
-int main(void) {
+/*int main() {
 	int i;
 	int a;
 	float pi;
@@ -14,9 +14,10 @@ int main(void) {
 
 		//Selam sfgsfgsdgs
 
-
+		
 	}
 
 
 
 }
+*/
