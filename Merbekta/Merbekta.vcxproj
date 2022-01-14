@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Array.cpp" />
     <ClCompile Include="PointerRamMemory.cpp" />
+    <ClCompile Include="PassByPointer.cpp" />
     <ClCompile Include="SinusRadientToDegree.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

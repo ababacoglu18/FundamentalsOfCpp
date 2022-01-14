@@ -1,3 +1,4 @@
+/* //     i sil
 #include<iostream>
 using namespace std;
 
@@ -22,3 +23,4 @@ int main(void) {
 					cout << "Sayi 1'yerine sayi1Ref ile  yazilan gecici deger. (Ekstra ramde yer acildi.)  " << sayi1Ref << endl << "Sayi1 in gercek ram'de tutulan degeri  " << sayi1 << endl;
 	
 }
+*/
