@@ -13,19 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Kaynak Dosyalar\BasicCommands">
+      <UniqueIdentifier>{f6f2df52-c55d-4320-b5d1-cc2f8f555df2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyalar\Functions">
+      <UniqueIdentifier>{9da7448c-d24c-4b29-a605-681a7c9f80cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SinusRadientToDegree.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+    <ClCompile Include="Array.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="PointerRamMemory.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+    <ClCompile Include="For.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
+    </ClCompile>
+    <ClCompile Include="If.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
     <ClCompile Include="PassByPointer.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="Array.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
+    <ClCompile Include="PointerRamMemory.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
+    </ClCompile>
+    <ClCompile Include="SinusRadientToDegree.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
+    </ClCompile>
+    <ClCompile Include="SwitchCase.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

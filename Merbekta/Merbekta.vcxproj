@@ -20,9 +20,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Array.cpp" />
+    <ClCompile Include="For.cpp" />
+    <ClCompile Include="If.cpp" />
     <ClCompile Include="PointerRamMemory.cpp" />
     <ClCompile Include="PassByPointer.cpp" />
     <ClCompile Include="SinusRadientToDegree.cpp" />
+    <ClCompile Include="SwitchCase.cpp" />
+    <ClCompile Include="while.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

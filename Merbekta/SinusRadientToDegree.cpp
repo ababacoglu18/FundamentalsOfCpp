@@ -1,7 +1,7 @@
-#include <iostream>
+/* #include <iostream>
 #include<cmath>
 using namespace std;
-/*int main() {
+int main() {
 	int i;
 	int a;
 	float pi;
@@ -12,7 +12,7 @@ using namespace std;
 	for (i=0; i <= a; i++) {
 		std::cout << " sinus degeri  " << i << "   " << sin(i*pi/180) << "\n";
 
-		//Selam sfgsfgsdgs
+		
 
 		
 	}

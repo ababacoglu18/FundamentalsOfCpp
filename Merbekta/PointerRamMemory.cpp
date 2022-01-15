@@ -7,7 +7,7 @@ int main(void) {
 	int sayi1 = 10;
 
 	int* sayi1Ptr; //sayi1Ptr int bir degerin pointeridir.
-	sayi1Ptr = &sayi1; //sayi1 in pointeri ile sayi1Ptr'nin ramde ayrilan alani aynidir.
+	sayi1Ptr = &sayi1; //sayi1 in pointeri ile sayi1Ptr'nin ramde ayrilan alani aynidir, ayni referans sayiyi kullanirlar.
 			
 				cout <<"sayi1 in ramde tutulan yeri: " << &sayi1 <<endl<< "sayi 1 degeri: " << sayi1 << endl<< endl;  //ilk deger ram yerini 2. si sayi 1 degerini verir.
  	
