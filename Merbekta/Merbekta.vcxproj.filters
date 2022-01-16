@@ -21,29 +21,41 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Array.cpp">
+    <ClCompile Include="6Array.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="For.cpp">
+    <ClCompile Include="5For.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="If.cpp">
+    <ClCompile Include="4If.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="PassByPointer.cpp">
+    <ClCompile Include="2PassByPointer.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="PointerRamMemory.cpp">
+    <ClCompile Include="3PointerRamMemory.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="SinusRadientToDegree.cpp">
+    <ClCompile Include="1SinusRadientToDegree.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="SwitchCase.cpp">
+    <ClCompile Include="8SwitchCase.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="while.cpp">
+    <ClCompile Include="7while.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
+    </ClCompile>
+    <ClCompile Include="1BasicVoid.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="2VoidImportantInfo.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="3PointerRealValueChg.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="4PassbyPointer2.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
