@@ -45,16 +45,19 @@
     <ClCompile Include="7while.cpp">
       <Filter>Kaynak Dosyalar\BasicCommands</Filter>
     </ClCompile>
-    <ClCompile Include="1BasicVoid.cpp">
+    <ClCompile Include="9BasicVoid.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
-    <ClCompile Include="2VoidImportantInfo.cpp">
+    <ClCompile Include="10VoidImportantInfo.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
-    <ClCompile Include="3PointerRealValueChg.cpp">
+    <ClCompile Include="11PointerRealValueChg.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
-    <ClCompile Include="4PassbyPointer2.cpp">
+    <ClCompile Include="13PassbyPointer2.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="12PassingByValue.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
   </ItemGroup>
