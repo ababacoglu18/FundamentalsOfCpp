@@ -19,6 +19,9 @@
     <Filter Include="Kaynak Dosyalar\Functions">
       <UniqueIdentifier>{9da7448c-d24c-4b29-a605-681a7c9f80cf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Kaynak Dosyalar\OOP">
+      <UniqueIdentifier>{a551e6f9-5f21-4b75-991c-716b1aa17a53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6Array.cpp">
@@ -59,6 +62,15 @@
     </ClCompile>
     <ClCompile Include="12PassingByValue.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassingByReference2.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="CallBackFunctions.cpp">
+      <Filter>Kaynak Dosyalar\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Class.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

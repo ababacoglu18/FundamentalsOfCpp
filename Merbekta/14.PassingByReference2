@@ -1,0 +1,8 @@
+#include <iostream>
+int main(void) {
+	float a = 3.14f;
+	std::cout << a << std::endl;
+
+
+
+}

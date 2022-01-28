@@ -32,6 +32,9 @@
     <ClCompile Include="10VoidImportantInfo.cpp" />
     <ClCompile Include="7while.cpp" />
     <ClCompile Include="12PassingByValue.cpp" />
+    <ClCompile Include="CallBackFunctions.cpp" />
+    <ClCompile Include="Class.cpp" />
+    <ClCompile Include="PassingByReference2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
