@@ -78,10 +78,25 @@
     <ClCompile Include="18StaticMembers.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
-    <ClCompile Include="Inheritence.cpp">
+    <ClCompile Include="19Inheritence.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
     <ClCompile Include="20AccessControl.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="21Encapsulation.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="22Overloading.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="22.2OverloadingValue.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="22.3OverloadingConstructors.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="Cast.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
   </ItemGroup>
