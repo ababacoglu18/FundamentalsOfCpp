@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="18StaticMembers.cpp" />
+    <ClCompile Include="20AccessControl.cpp" />
     <ClCompile Include="6Array.cpp" />
     <ClCompile Include="9BasicVoid.cpp" />
     <ClCompile Include="5For.cpp" />
@@ -37,6 +38,7 @@
     <ClCompile Include="16Class.cpp" />
     <ClCompile Include="17ConstructorsDestructors.cpp" />
     <ClCompile Include="14PassingByReference2.cpp" />
+    <ClCompile Include="Inheritence.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -78,5 +78,11 @@
     <ClCompile Include="18StaticMembers.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="Inheritence.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="20AccessControl.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
