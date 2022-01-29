@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="18StaticMembers.cpp" />
     <ClCompile Include="6Array.cpp" />
     <ClCompile Include="9BasicVoid.cpp" />
     <ClCompile Include="5For.cpp" />
@@ -32,9 +33,10 @@
     <ClCompile Include="10VoidImportantInfo.cpp" />
     <ClCompile Include="7while.cpp" />
     <ClCompile Include="12PassingByValue.cpp" />
-    <ClCompile Include="CallBackFunctions.cpp" />
-    <ClCompile Include="Class.cpp" />
-    <ClCompile Include="PassingByReference2.cpp" />
+    <ClCompile Include="15CallBackFunctions.cpp" />
+    <ClCompile Include="16Class.cpp" />
+    <ClCompile Include="17ConstructorsDestructors.cpp" />
+    <ClCompile Include="14PassingByReference2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

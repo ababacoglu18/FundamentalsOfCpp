@@ -63,13 +63,19 @@
     <ClCompile Include="12PassingByValue.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
-    <ClCompile Include="PassingByReference2.cpp">
+    <ClCompile Include="14PassingByReference2.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
-    <ClCompile Include="CallBackFunctions.cpp">
+    <ClCompile Include="15CallBackFunctions.cpp">
       <Filter>Kaynak Dosyalar\Functions</Filter>
     </ClCompile>
-    <ClCompile Include="Class.cpp">
+    <ClCompile Include="16Class.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="17ConstructorsDestructors.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="18StaticMembers.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
   </ItemGroup>
