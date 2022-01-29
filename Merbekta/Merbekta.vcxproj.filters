@@ -111,5 +111,8 @@
     <ClCompile Include="27VirtualMethod.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="Interface-Abstract.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

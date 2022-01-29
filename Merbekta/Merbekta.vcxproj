@@ -48,6 +48,7 @@
     <ClCompile Include="23UpCast.cpp" />
     <ClCompile Include="25Polymorphism.cpp" />
     <ClCompile Include="27VirtualMethod.cpp" />
+    <ClCompile Include="Interface-Abstract.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
