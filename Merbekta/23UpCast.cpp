@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <any>
 
 
@@ -58,4 +58,4 @@ int main(void) {
 
 	hareketEt(&light1);												//Aktör b.a isteyen fonksiyona ýþýk bellek adresi verildi
 																	//Bir sýkýntý çýkmadý çünkü light actorden kalýtýlmýþ bir class.
-}
+}																	//Yukarý doðru yapýlan Casting iþlemi.. */

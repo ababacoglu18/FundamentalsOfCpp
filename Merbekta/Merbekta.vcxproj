@@ -25,6 +25,8 @@
     <ClCompile Include="22.2OverloadingValue.cpp" />
     <ClCompile Include="22.3OverloadingConstructors.cpp" />
     <ClCompile Include="22Overloading.cpp" />
+    <ClCompile Include="24DownCasting.cpp" />
+    <ClCompile Include="26This.cpp" />
     <ClCompile Include="6Array.cpp" />
     <ClCompile Include="9BasicVoid.cpp" />
     <ClCompile Include="5For.cpp" />
@@ -43,7 +45,9 @@
     <ClCompile Include="17ConstructorsDestructors.cpp" />
     <ClCompile Include="14PassingByReference2.cpp" />
     <ClCompile Include="19Inheritence.cpp" />
-    <ClCompile Include="Cast.cpp" />
+    <ClCompile Include="23UpCast.cpp" />
+    <ClCompile Include="25Polymorphism.cpp" />
+    <ClCompile Include="27VirtualMethod.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -96,7 +96,19 @@
     <ClCompile Include="22.3OverloadingConstructors.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
-    <ClCompile Include="Cast.cpp">
+    <ClCompile Include="23UpCast.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="24DownCasting.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="25Polymorphism.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="26This.cpp">
+      <Filter>Kaynak Dosyalar\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="27VirtualMethod.cpp">
       <Filter>Kaynak Dosyalar\OOP</Filter>
     </ClCompile>
   </ItemGroup>
