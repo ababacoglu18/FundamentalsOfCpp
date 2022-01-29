@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 
 
@@ -35,4 +35,4 @@ int main (void){
 	math.ekle(30);
 	std::cout<<math.sonuc()<<std::endl;
 
-}*/
+}

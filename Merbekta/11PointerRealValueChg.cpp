@@ -28,7 +28,7 @@ int main(void) {
 		//Pointer bir degiskenin bellek adresini tutan baska bir degiskendir.
 		//
 
-/*
+
 #include <iostream>
 void selam(int a, int b) {
 
@@ -96,9 +96,9 @@ int main(void) {
 		                                   //Referansta int& = ar; gibi bir secenek yoktur.
 										   
 
-									std::cout << "\n------------------------\n";                  */
+									std::cout << "\n------------------------\n";                  
 
-								/*	object->function(); //Pointer'da fonksiyona erisim
+								/*object->function(); //Pointer'da fonksiyona erisim
 									object.function();  //Referansta erisim.. */
 
-// }
+ }

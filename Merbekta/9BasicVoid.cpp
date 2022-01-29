@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 
 void topla(int a, int b) {
@@ -26,4 +26,3 @@ int main(void) {
 	}
 	
 }
-*/

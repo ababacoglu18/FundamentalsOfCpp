@@ -18,7 +18,7 @@ int main(void) {
 	                        //Fonksiyonda degistirilen deger ancak pointerla degistirilirse karakter ileri yurur. 
 							//Denemek istiyorsan yorum operatorunu kaldirip asagi tarafi kapat. 
 }  */
-/*  #include <iostream>
+  #include <iostream>
 void karakteriYurut(int *karakter,int kacBirim,char yon) {
 	*karakter = 30;
 	std::cout <<"  karakter " << *karakter << " , " << kacBirim << " birim " << yon << "  yonune yurudu.     void function \n";
@@ -38,4 +38,4 @@ int main(void) {
 
 		
 
-} */
+} 

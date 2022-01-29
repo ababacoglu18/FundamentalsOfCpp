@@ -1,4 +1,4 @@
-/* #include <iostream>
+ #include <iostream>
 
 
 typedef  int callback;
@@ -38,4 +38,4 @@ int main(void) {
 	callback a = 10;
 
 
-}*/
+}

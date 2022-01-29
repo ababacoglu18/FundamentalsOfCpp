@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 
 class Actor{
@@ -25,4 +25,4 @@ int main(void) {
 
 	Actor a(10);
 
-}*/
+}

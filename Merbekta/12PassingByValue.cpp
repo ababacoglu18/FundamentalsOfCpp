@@ -1,4 +1,4 @@
-/*  #include <iostream>
+ #include <iostream>
 
 int topla(int a, int b) {
 
@@ -19,4 +19,4 @@ int main(void) {
 	std::cout << toplam;	
 	
 
-}*/
+}

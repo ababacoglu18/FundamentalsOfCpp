@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 
 void TopunRenginiDegistir(int& top) {
@@ -17,4 +17,4 @@ int main(void) {
 
 	//
 
-}*/
+}

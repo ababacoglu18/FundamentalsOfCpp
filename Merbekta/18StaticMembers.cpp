@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 class Player {
 public:
@@ -35,4 +35,4 @@ int main() {
 	std::cout << oyuncu1.sayi();            //Nesne üzerinden eriþim
 
 											//Log dosyalarý
-}*/
+}

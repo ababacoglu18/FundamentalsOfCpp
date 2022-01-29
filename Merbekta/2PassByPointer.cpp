@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 //PassByPointer
 void degistir(int* sayi1) {
@@ -18,4 +18,3 @@ int main(void) {
 	cout << sayi1;
 
 }
-*/

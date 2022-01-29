@@ -1,4 +1,4 @@
-/* #include<iostream>
+ #include<iostream>
 class Actor {
 public:
 	int location;
@@ -44,4 +44,4 @@ int main(void){
 
 	std::cout<<silah1.Topla(3, 5);
 	}
-	*/
+	

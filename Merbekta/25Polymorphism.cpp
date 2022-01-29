@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 									//Çoklu form, çok çeþitlilik, çok rollü anlamlarý var. 
 
 class Silah {
@@ -28,4 +28,4 @@ int main(void) {
 	Silah silah2;
 	silah2.ates();
 
-}*/
+}

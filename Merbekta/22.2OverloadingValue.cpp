@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 class Actor {
 public:
@@ -25,4 +25,4 @@ int main(void) {
 	std::cout << sonuc.uzunluk << std::endl;
 
 
-}*/
+}

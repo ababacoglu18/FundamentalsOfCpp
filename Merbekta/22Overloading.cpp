@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 
 
 			struct Youtube {
@@ -11,10 +11,10 @@
 			
 				std::string url;
 
-			};*/
+			};
 
 
-/*class Player {
+class Player {
 public:
 	void Play(Youtube y) {
 
@@ -59,4 +59,3 @@ int main(void) {
 
 }
 
-*/

@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <any>
 
 
@@ -31,4 +31,4 @@ int main(void)	{
 	ak47.Silah::ates();			 //Override edilen metod bu þekilde de çaðýrýlabilir. 
 
 	silahPtr->ates();          //virtual void üst farklý classlarda tanýmlanmýþ ayný isimli metodlardan alttakini çaðýrmamýzý saðlar. (Override)
-	} */
+	} 
